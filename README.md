@@ -43,7 +43,7 @@ Then, navigate to the project directory and install the dependencies:
 
 ```bash
 cd dsa-typescript
-npm install
+npm start
 ```
 
 ## Usage
@@ -51,7 +51,7 @@ npm install
 You can run the implementations and tests using the following command:
 
 ```bash
-npm run test
+node dist/name-of-file.js
 ```
 
 This will execute the test cases for all data structures and algorithms to ensure they are working correctly.
